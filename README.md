@@ -21,8 +21,8 @@ Quattro aree mi tengono impegnato più di tutte:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FraPanca&show_icons=true&theme=default&hide_title=true&count_private=false" alt="Francesco's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraPanca&layout=compact&theme=default" alt="Top Languages" height="165"/>
+<img src="profile/stats.svg" alt="Francesco's GitHub stats" height="165"/>
+<img src="profile/top-langs.svg" alt="Top Languages" height="165"/>
 
 <br>
 
