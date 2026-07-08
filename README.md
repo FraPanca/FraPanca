@@ -8,7 +8,7 @@
 
 ## 🧭 Chi sono
 
-Mi piace prendere problemi reali un po' disordinati per trasformarli in sistemi ben progettati. Studio Ingegneria Informatica alla **Alma Mater Studiorum – Università di Bologna**, terzo anno, e la parte che mi diverte di più non è scrivere codice che funziona, ma capire *perché* deve essere strutturato in un certo modo: come si distribuisce un sistema, come si protegge, come si progetta perché qualcun altro (o io stesso in futuro) possa capirlo.
+Mi piace prendere problemi reali un po' disordinati — dividere le spese dopo un viaggio tra amici, capire chi sta origliando su una rete, far parlare tra loro sensori sparsi per casa — e trasformarli in sistemi piccoli ma progettati bene. Studio Ingegneria Informatica alla **Alma Mater Studiorum – Università di Bologna**, terzo anno, e la parte che mi diverte di più non è scrivere codice che funziona, ma capire *perché* deve essere strutturato in un certo modo: come si distribuisce un sistema, come si protegge, come si progetta perché qualcun altro (o io stesso, tra sei mesi) possa capirlo.
 
 Quattro aree mi tengono impegnato più di tutte:
 
@@ -26,7 +26,7 @@ Quattro aree mi tengono impegnato più di tutte:
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FraPanca&theme=default" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=FraPanca&theme=default" alt="GitHub Streak" />
 
 </div>
 
