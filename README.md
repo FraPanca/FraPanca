@@ -8,7 +8,7 @@
 
 ## 🧭 Chi sono
 
-Mi piace prendere problemi reali un po' disordinati — dividere le spese dopo un viaggio tra amici, capire chi sta origliando su una rete, far parlare tra loro sensori sparsi per casa — e trasformarli in sistemi piccoli ma progettati bene. Studio Ingegneria Informatica alla **Alma Mater Studiorum – Università di Bologna**, terzo anno, e la parte che mi diverte di più non è scrivere codice che funziona, ma capire *perché* deve essere strutturato in un certo modo: come si distribuisce un sistema, come si protegge, come si progetta perché qualcun altro (o io stesso, tra sei mesi) possa capirlo.
+Mi piace prendere problemi reali e disordinati, e trasformarli in sistemi ben progettati. Studio Ingegneria Informatica alla **Alma Mater Studiorum - Università di Bologna**, terzo anno, e la parte che mi diverte di più non è scrivere codice che funziona, ma capire *perché* deve essere strutturato in un certo modo: come si distribuisce un sistema, come si protegge, come si progetta perché qualcun altro (o io stesso in futuro) possa capirlo.
 
 Quattro aree mi tengono impegnato più di tutte:
 
@@ -51,5 +51,5 @@ Quattro aree mi tengono impegnato più di tutte:
 <br>
 
 <div align="center">
-<i>Sempre alla ricerca di un problema abbastanza interessante da meritare un weekend di lavoro extra.</i>
+<i>"La progettazione software non è scrivere codice che funziona, ma tradurre la complessità del mondo reale in sistemi stabili e protetti."</i>
 </div>
