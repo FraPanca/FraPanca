@@ -20,16 +20,16 @@ Le aree che mi appassionano di più:
 |---|---|
 | Linguaggi | Java, C, C++, C#, Python, JavaScript, Bash |
 | Web | HTML, CSS, React.js, Node.js, Express.js, Chart.js, WebSocket |
-| DevOps | Docker, Kubernetes, Vagrant, Terraform, AWS, Ansible, Prometheus, Grafana, ELK Stack, Git, GitHub, CI/CD, GitHub Actions, systemd |
-| Amministrazione di Sistemi | OpenLDAP, DHCP, SNMP, rsyslog, SSH, routing e IP forwarding, scheduling (cron/at), gestione filesystem e permessi |
+| DevOps | Docker, Kubernetes, Vagrant, Terraform, AWS, Ansible, Prometheus, Grafana, ELK Stack, Git, GitHub, CI/CD, GitHub Actions, GitOps, ArgoCD |
+| Amministrazione di Sistemi | systemd, OpenLDAP, DHCP, SNMP, rsyslog, SSH, routing e IP forwarding, scheduling (cron/at), gestione filesystem e permessi |
 | Sistemi Operativi | Linux (Debian, Arch), Windows |
 | Basi di Dati | SQL, DB2, MongoDB, Redis, JDBC, Hibernate |
 | Testing | JUnit, NUnit, Jest, Vitest, pytest |
 | Ingegneria del Software | Design Pattern, API REST, analisi dei requisiti, analisi del rischio, prototipazione |
 | Sicurezza Informatica | Burp Suite, Wireshark, Suricata, Aide, Binary Ninja |
 | Machine Learning | Prophet, scikit-learn |
-| IoT / Embedded | ESP32, ESP32-S3 display, Raspberry PI, Arduino, MQTT, LGVL |
-| Grafica / GUI | JavaFX, SFML |
+| IoT / Embedded | ESP32, ESP32-S3 display, Raspberry PI, Arduino, MQTT |
+| Grafica / GUI | LGVL, JavaFX, SFML |
 
 ## 📊 GitHub Stats
 
