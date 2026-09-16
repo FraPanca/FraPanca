@@ -19,8 +19,8 @@ Le aree che mi appassionano di più:
 | Categoria | Tecnologie |
 |---|---|
 | Linguaggi | Java, C, C++, C#, Python, JavaScript, Bash |
-| Web | HTML, CSS, React.js, Node.js, Express.js, Chart.js, WebSocket, MQTT |
-| DevOps | Docker, Vagrant, Ansible, Git, GitHub, systemd |
+| Web | HTML, CSS, React.js, Node.js, Express.js, Chart.js, WebSocket |
+| DevOps | Docker, Kubernetes, Vagrant, Terraform, AWS, Ansible, Prometheus, Grafana, ELK Stack, Git, GitHub, CI/CD, GitHub Actions, systemd |
 | Amministrazione di Sistemi | OpenLDAP, DHCP, SNMP, rsyslog, SSH, routing e IP forwarding, scheduling (cron/at), gestione filesystem e permessi |
 | Sistemi Operativi | Linux (Debian, Arch), Windows |
 | Basi di Dati | SQL, DB2, MongoDB, Redis, JDBC, Hibernate |
@@ -28,7 +28,7 @@ Le aree che mi appassionano di più:
 | Ingegneria del Software | Design Pattern, API REST, analisi dei requisiti, analisi del rischio, prototipazione |
 | Sicurezza Informatica | Burp Suite, Wireshark, Suricata, Aide, Binary Ninja |
 | Machine Learning | Prophet, scikit-learn |
-| IoT / Embedded | Arduino, ESP32 |
+| IoT / Embedded | ESP32, ESP32-S3 display, Raspberry PI, Arduino, MQTT, LGVL |
 | Grafica / GUI | JavaFX, SFML |
 
 ## 📊 GitHub Stats
